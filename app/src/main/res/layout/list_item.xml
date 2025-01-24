@@ -21,7 +21,8 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_gravity="center"
-            android:src="@drawable/sg" />
+            android:src="@drawable/sg"
+            android:padding="10dp"/>
 
         <TableLayout
             android:layout_width="match_parent"
