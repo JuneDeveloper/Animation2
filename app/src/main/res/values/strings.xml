@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animation2</string>
+    <string name="mini">минимаркет</string>
+    <string name="lentaTitle">ЛЕНТА</string>
+    <string name="lenta">Лента</string>
+    <string name="name">Название</string>
+    <string name="weight">Вес</string>
+    <string name="price">Стоимость</string>
+    <string name="basket">Ваша корзина:</string>
+    <string name="beginBuy">Начать покупки</string>
+</resources>
